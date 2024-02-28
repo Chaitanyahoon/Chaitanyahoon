@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://media1.giphy.com/media/Ws6T5PN7wHv3cY8xy8/200.gif?cid=790b7611e3kvml098kzdvegz5vv24p234ru6j1q4fw0cvoy4&ep=v1_gifs_search&rid=200.gif&ct=g)"  />
+<img align="right" height="150" src="https://shorturl.at/oquO8"  />
 
 ###
 
