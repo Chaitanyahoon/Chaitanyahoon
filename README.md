@@ -1,5 +1,4 @@
-### Hi there 👋
-<h2 align="left">Hi 👋! My name is Chaitanya Patil and I'm a Coder, from Vapi,Gujarat</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -10,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://shorturl.at/oquO8"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -30,18 +29,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+###
 
 <div align="left">
- <a href = "https://www.instagram.com/chaitanyafrr?igsh=amZub3JkemlqMGxr">  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
- <a href = "https://www.linkedin.com/in/chaitanya-patil-48a372252/" > <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="linkedin logo" /> 
-   <a href = "discord://924550651445379083" > <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />  
-<a href = "mailto:chaitanyapatil700.com" >  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
+
+###
 
 <br clear="both">
 
-<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100" height="100" fill="black" />
-  <circle cx="50" cy="50" r="40" fill="green" />
-</svg>
+<img src="https://raw.githubusercontent.com/Chaitanya-2406/Chaitanya-2406/output/snake.svg" alt="Snake animation" />
+
+###
