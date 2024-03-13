@@ -11,22 +11,22 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
         
       - name: Generate snake.svg
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Chaitanya-2406
-          outputs: dist/snake.svg?palette=github-dark
+        run: |
+          npx create-snake-svg -o dist/snake.svg
 
-      - name: Push snake.svg to the output branch
-        uses: ad-m/github-push-action@master
+      - name: Commit changes
+        run: |
+          git config --global user.email "Chaitanya-2406@github.com"
+          git config --global user.name "GitHub Actions"
+          git add dist/snake.svg
+          git commit -m "Generate snake.svg"
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@Chaitanya-2406
         with:
           branch: output
-          directory: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
