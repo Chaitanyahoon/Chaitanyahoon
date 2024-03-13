@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.discordapp.net/attachments/981175767180410931/1212246403410034768/soulja-boy-pepe.gif?ex=66039871&is=65f12371&hm=739f607dec35bb635921c53c316998902668a04a81984320db325a3c249c3ddc&=&width=160&height=160"  />
 
 ###
 
