@@ -45,5 +45,3 @@
   <rect width="100" height="100" fill="black" />
   <circle cx="50" cy="50" r="40" fill="green" />
 </svg>
-
-###
