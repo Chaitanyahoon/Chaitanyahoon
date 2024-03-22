@@ -43,6 +43,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Chaitanya-2406/Chaitanya-2406/output/snake.svg" alt="Snake animation" />
 
 ###
