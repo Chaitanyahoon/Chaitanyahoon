@@ -22,4 +22,4 @@
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chaitanya-2406&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanya-2406&show_icons=true&locale=en" alt="chaitanya-2406" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanya-2406&theme=radical&no-frame=false&no-bg=false&margin-w=4&show_icons=true&locale=en" alt="chaitanya-2406" /></p>
