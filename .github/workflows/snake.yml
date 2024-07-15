@@ -13,7 +13,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
-          fetch-depth: 1
+          fetch-depth: 0
+
+      - name: Create dist directory
+        run: mkdir -p dist
 
       - name: Generate Snake
         uses: Platane/snk@master
@@ -38,7 +41,7 @@ jobs:
           echo "Committing changes"
           git commit -m "Generate snake animation"
           echo "Pushing changes to master"
-          git push origin master --force
+          git push origin master --force --verbose
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
