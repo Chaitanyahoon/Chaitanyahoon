@@ -30,4 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanya-2406&theme=radical&no-frame=false&no-bg=false&margin-w=4&show_icons=true&locale=en" alt="chaitanya-2406" /></p>
 
 ##
-<img src="https://raw.githubusercontent.com/Chaitanya-2406/Chaitanya-2406/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Chaitanya-2406/Chaitanya-2406/output/snake.svg)
+
