@@ -1,2 +1,0 @@
-- name: Create dist directory
-  run: mkdir -p dist
