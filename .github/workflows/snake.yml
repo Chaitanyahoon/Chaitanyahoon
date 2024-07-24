@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake and Deploy to GitHub Pages
 
 on:
   schedule:
@@ -12,8 +12,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
         with:
-          fetch-depth: 0
+          node-version: '16.x'  # Ensure Node.js version 16 is used
 
       - name: Create dist directory
         run: mkdir -p dist
@@ -31,24 +34,21 @@ jobs:
           echo "Listing contents of dist directory:"
           ls -l dist
 
-      - name: Commit and push changes
+      - name: Configure Git
         run: |
-          echo "Configuring git user"
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          echo "Adding files"
-          git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
-          echo "Committing changes"
+
+      - name: Commit and push changes
+        run: |
+          git add dist/
           git commit -m "Generate snake animation"
-          echo "Pushing changes to master"
-          git push origin master --force --verbose
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git push origin HEAD:${{ github.ref }}
 
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: gh-pages  # Change 'output' to 'gh-pages' if that's your GitHub Pages branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
