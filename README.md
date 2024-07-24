@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **chaitanyapatil700@gmail.com**
 
-- 📄 Know about my experiences [https://chaitanyapatil.netlify.app/](https://chaitanyapatil.netlify.app/)
+- 📄 Know about my experiences [https://chaitanyapatil.vercel.app/](https://chaitanyapatil.vercel.app/)
 
 - ⚡ Fun fact **How do you comfort a JavaScript bug? You console it.**
 
