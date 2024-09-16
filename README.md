@@ -29,6 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanya-2406&theme=radical&no-frame=false&no-bg=false&margin-w=4&show_icons=true&locale=en" alt="chaitanya-2406" /></p>
 
-##
-![Snake animation](https://raw.githubusercontent.com/Chaitanyahoon/Chaitanyahoon/output/snake.svg)
+
+![snake gif](https://github.com/Chaitanyahoon/Chaitanyahoon/blob/output/github-contribution-grid-snake.svg)
 
