@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/chaitanyapatil700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanyapatil700" height="30" width="40" /></a>
 <a href="https://instagram.com/chaitanyahoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaitanyafrr" height="30" width="40" /></a>
   
-  ![Discord](https://discord.c99.nl/widget/theme-3/964173378896400425.png)
+  ![Discord](https://discord.c99.nl/widget/theme-2/964173378896400425.png)
 </p>
 
 
