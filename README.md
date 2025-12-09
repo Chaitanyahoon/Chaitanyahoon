@@ -83,6 +83,7 @@ My ideal software is calm: **nothing extra, nothing missing.**
 
 ---
 
+
 <!-- Achievements -->
 ## 🥇 Achievements
 <p align="center">
@@ -106,6 +107,15 @@ My ideal software is calm: **nothing extra, nothing missing.**
 
 <!-- Socials -->
 ## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://discord.com/users/964173378896400425">
+    <img src="https://discord.c99.nl/widget/theme-3/964173378896400425.png" 
+         width="430"
+         alt="Discord Banner"/>
+  </a>
+</p>
+
 <p align="center">
 <a href="mailto:chaitanyapatil700@gmail.com"><img src="https://img.shields.io/badge/Email-D3A174?style=for-the-badge&logo=gmail&logoColor=F2ECE5"/></a>
 <a href="https://linkedin.com/in/chaitanyapatil700"><img src="https://img.shields.io/badge/LinkedIn-B98C67?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
