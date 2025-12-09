@@ -1,31 +1,52 @@
+<!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=D3A174&center=true&vCenter=true&width=600&lines=Writing+systems+with+clarity+and+intent.;Minimal+code.+Maximum+meaning.;Backend+logic+meets+elegant+UI.;Learning+deliberately.+Improving+relentlessly.">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1300&color=D3A174&center=true&vCenter=true&width=620&lines=Crafting+systems+with+clarity+and+intent.;Minimal+code.+Maximum+meaning.;Learning+deliberately.+Improving+relentlessly." />
 </p>
 
-<h1 align="center">Hi, I'm <span style="color:#D3A174">Chaitanya Patil</span></h1>
-<p align="center">Full Stack Developer — React × Spring Boot × Tailwind</p>
+<h1 align="center">
+  <span style="color:#5C4838;">Hi, I'm</span>
+  <span style="color:#D3A174;"> Chaitanya Patil</span>
+</h1>
+
+<p align="center" style="color:#5C4838; font-style:italic;">
+  turning complex systems into calm, understandable software
+</p>
+
+<p align="center" style="color:#B98C67; font-size:15px;">
+  Full Stack Developer — React × Spring Boot × Tailwind
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="dazai.png" width="92%" />
+</p>
 
 ---
 
-> “Precision is poetry — just written in code.”
+<!-- About -->
+## 🪶 About Me
+I focus on building predictable and graceful digital systems —  
+clean architecture, meaningful UI, and quietly improving through consistency.  
+My ideal software is calm: **nothing extra, nothing missing.**
 
 ---
 
-## 🪶 About
-I build thoughtful digital systems — clean architecture, predictable behavior, and subtle UI design.  
-I like solving problems quietly and letting the work speak for itself.
+<!-- What I'm studying -->
+## 📖 Currently Exploring
+- Advanced React patterns (state machines, context architecture)
+- Spring Boot for secure + scalable backend design
+- TypeScript for long-term maintenance
+- Motion UI + Tailwind for subtle interface movement
+- Game engine logic (personal curiosity)
+
+<!-- Divider -->
+<p align="center">
+  <img src="dazai.png" width="92%" />
+</p>
 
 ---
 
-## 📖 What I'm studying
-- Advanced React (Hooks + Context + performance patterns)
-- Spring Boot (API design, security & scale)
-- TypeScript for maintainable front-end systems
-- Tailwind + Motion UI for meaningful interface motion
-- Indie game mechanics & engine logic (personal interest)
-
----
-
+<!-- Tech Stack -->
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,java,spring,ts,js,nodejs,mongodb,mysql,html,css,tailwind,figma,git" />
@@ -33,16 +54,19 @@ I like solving problems quietly and letting the work speak for itself.
 
 ---
 
-## 🌐 Connect
+<!-- Quote -->
+<blockquote align="center" style="font-size: 16px; color:#5C4838;">
+  “Precision is poetry — just written in code.”
+</blockquote>
+
+<!-- Divider -->
 <p align="center">
-<a href="mailto:chaitanyapatil700@gmail.com"><img src="https://img.shields.io/badge/Email-D3A174?style=for-the-badge&logo=gmail&logoColor=F2ECE5"/></a>
-<a href="https://linkedin.com/in/chaitanyapatil700"><img src="https://img.shields.io/badge/LinkedIn-B98C67?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/chaitanyahoon"><img src="https://img.shields.io/badge/Instagram-E3C6AA?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://chaitanyapatil.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D3A174?style=for-the-badge&logo=vercel&logoColor=F2ECE5"/></a>
+  <img src="dazai.png" width="92%" />
 </p>
 
 ---
 
+<!-- Stats -->
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-k4xr.vercel.app/api?username=chaitanyahoon&show_icons=true&hide_border=true&title_color=D3A174&icon_color=B98C67&text_color=B98C67&bg_color=F2ECE5" width="52%" />
@@ -59,6 +83,7 @@ I like solving problems quietly and letting the work speak for itself.
 
 ---
 
+<!-- Achievements -->
 ## 🥇 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=chaitanyahoon&theme=onestar&no-frame=true&row=1&margin-w=10&title_color=D3A174&bg_color=F2ECE5" />
@@ -66,17 +91,28 @@ I like solving problems quietly and letting the work speak for itself.
 
 ---
 
+<!-- Activity Graph -->
 ## 📊 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyahoon&theme=react&area=true&color=D3A174&point=B98C67&line=E3C6AA&bg_color=F2ECE5&hide_border=true" />
 </p>
 
+<!-- Divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1500&color=D3A174&center=true&vCenter=true&width=650&lines=Quiet+discipline+builds+great+systems.;Every+commit+is+an+iteration+toward+better.;Growth+is+not+loud+—+but+consistent." />
+  <img src="dazai.png" width="92%" />
+</p>
+
+---
+
+<!-- Socials -->
+## 🌐 Connect With Me
+<p align="center">
+<a href="mailto:chaitanyapatil700@gmail.com"><img src="https://img.shields.io/badge/Email-D3A174?style=for-the-badge&logo=gmail&logoColor=F2ECE5"/></a>
+<a href="https://linkedin.com/in/chaitanyapatil700"><img src="https://img.shields.io/badge/LinkedIn-B98C67?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/chaitanyahoon"><img src="https://img.shields.io/badge/Instagram-E3C6AA?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://chaitanyapatil.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D3A174?style=for-the-badge&logo=vercel&logoColor=F2ECE5"/></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20💙%20and%20intent-D3A174?style=for-the-badge&labelColor=F2ECE5&color=B98C67">
 </p>
-
-
