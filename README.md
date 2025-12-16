@@ -124,5 +124,5 @@ My ideal software is calm: **nothing extra, nothing missing.**
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20💙%20and%20intent-D3A174?style=for-the-badge&labelColor=F2ECE5&color=B98C67">
+  <img src="https://img.shields.io/badge/Designed between coffee breaks🤎-D3A174?style=for-the-badge&labelColor=F2ECE5&color=B98C67">
 </p>
