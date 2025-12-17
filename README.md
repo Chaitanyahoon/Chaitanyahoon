@@ -76,8 +76,8 @@ My ideal software is calm: **nothing extra, nothing missing.**
 ---
 
 ## ⏳ Activity Insights
-<img align="right" width="25%" src="./Dazai_Pointing.png">
-<img src="https://streak-stats.demolab.com?user=Chaitanyahoon&hide_border=false&background=F2ECE5&currStreakLabel=D3A174&ring=B98C67&fire=D3A174&sideLabels=B98C67" height="230em"/>
+<img align="right" width="39%" src="./Dazai_Pointing.png">
+<img src="https://streak-stats.demolab.com?user=Chaitanyahoon&hide_border=false&background=F2ECE5&currStreakLabel=D3A174&ring=B98C67&fire=D3A174&sideLabels=B98C67" height="210em"/>
 
 <br clear="all"/>
 
