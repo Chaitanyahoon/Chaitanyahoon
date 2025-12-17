@@ -69,8 +69,8 @@ My ideal software is calm: **nothing extra, nothing missing.**
 <!-- Stats -->
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-k4xr.vercel.app/api?username=chaitanyahoon&show_icons=true&hide_border=true&title_color=D3A174&icon_color=B98C67&text_color=B98C67&bg_color=F2ECE5" width="45%" />
-  <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=chaitanyahoon&layout=compact&hide_border=true&title_color=D3A174&text_color=B98C67&bg_color=F2ECE5" width="45%" />
+  <img src="https://github-readme-stats-k4xr.vercel.app/api?username=chaitanyahoon&show_icons=true&hide_border=true&title_color=D3A174&icon_color=B98C67&text_color=B98C67&bg_color=F2ECE5" width="50%" />
+  <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=chaitanyahoon&layout=compact&hide_border=true&title_color=D3A174&text_color=B98C67&bg_color=F2ECE5" width="40%" />
 </p>
 
 ---
