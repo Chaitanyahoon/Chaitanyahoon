@@ -34,11 +34,10 @@
 
 ## 🪶 About Me
 
-I focus on building predictable and graceful digital systems —
+I focus on building predictable and graceful digital systems 
 clean architecture, meaningful UI, and quietly improving through consistency.
 My ideal software is calm: **nothing extra, nothing missing.**
 
-- 🔨 Currently building: **[Open Jam](https://github.com/Chaitanyahoon)** — a synchronized public music listening platform
 - 🌱 Exploring: Advanced React patterns, Spring Boot security, Motion UI
 - 💬 Ask me about: Clean architecture, full-stack TypeScript, REST API design
 - 📍 Based in Maharashtra, India
@@ -50,11 +49,11 @@ My ideal software is calm: **nothing extra, nothing missing.**
 
 | Project | Description | Stars |
 |---|---|:---:|
-| [**StreetBite**](https://github.com/Chaitanyahoon/StreetBite) | Full-stack street food platform — vendor management, geo search, community feed, Spring Boot + Next.js | ⭐ 8 |
-| [**FocusArena**](https://github.com/Chaitanyahoon/FocusArena) | Solo Leveling–inspired productivity RPG — dungeon raids, real-time guild chat, mobile APK | ⭐ 4 |
-| [**Midori**](https://github.com/Chaitanyahoon/Midori) | Nature-themed productivity app — Pomodoro with ambient soundscapes, time-blocking calendar, Gemini AI coach | ⭐ 2 |
-| [**ScamSentry**](https://github.com/Chaitanyahoon/ScamSentry) | 4-layer forensic engine for detecting malicious URLs & job scams — OSINT blocklists, real-time threat map | ⭐ 9 |
-| [**Ghostframe**](https://github.com/Chaitanyahoon/Ghostframe) | Glitch horror web game — escape a corrupted simulation through CSS/Canvas distortion puzzles | ⭐ 9 |
+| [**StreetBite**](https://github.com/Chaitanyahoon/StreetBite) | Full-stack street food platform vendor management, geo search, community feed, Spring Boot + Next.js | ⭐ 8 |
+| [**FocusArena**](https://github.com/Chaitanyahoon/FocusArena) | Solo Leveling–inspired productivity RPG dungeon raids, real-time guild chat, mobile APK | ⭐ 4 |
+| [**Midori**](https://github.com/Chaitanyahoon/Midori) | Nature-themed productivity app Pomodoro with ambient soundscapes, time-blocking calendar, Gemini AI coach | ⭐ 2 |
+| [**ScamSentry**](https://github.com/Chaitanyahoon/ScamSentry) | 4-layer forensic engine for detecting malicious URLs & job scams OSINT blocklists, real-time threat map | ⭐ 9 |
+| [**Ghostframe**](https://github.com/Chaitanyahoon/Ghostframe) | Glitch horror web game escape a corrupted simulation through CSS/Canvas distortion puzzles | ⭐ 9 |
 
 > ⭐ If any of these helped or inspired you, a star goes a long way.
 
@@ -65,7 +64,7 @@ My ideal software is calm: **nothing extra, nothing missing.**
 - Advanced React patterns (state machines, context architecture)
 - Spring Boot & ASP.NET Core for secure + scalable backend design
 - TypeScript for long-term maintenance and safety
-- Real-time systems — SignalR, Socket.IO, WebSockets
+- Real-time systems, SignalR, Socket.IO, WebSockets
 - Motion UI + Tailwind for subtle interface movement
 - Mobile development with React Native / Kotlin
 - Game engine logic (personal curiosity)
@@ -135,7 +134,7 @@ My ideal software is calm: **nothing extra, nothing missing.**
 
 ## 🤝 Open to Collaborate
 
-I'm actively looking to contribute to interesting open source projects and collaborate with other developers. If you're building something in the **React / TypeScript / Spring Boot** space — or anything ambitious and purposeful — let's talk.
+I'm actively looking to contribute to interesting open source projects and collaborate with other developers. If you're building something in the **React / TypeScript / Spring Boot** space or anything ambitious and purposeful — let's talk.
 
 <p align="center">
   <a href="https://github.com/Chaitanyahoon?tab=repositories">
