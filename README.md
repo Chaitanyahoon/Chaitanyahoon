@@ -140,7 +140,7 @@ I'm actively looking to contribute to interesting open source projects and colla
   <a href="https://github.com/Chaitanyahoon?tab=repositories">
     <img src="https://img.shields.io/badge/Browse%20My%20Repos-D3A174?style=for-the-badge&logo=github&logoColor=F2ECE5"/>
   </a>
-  <a href="https://chaitanyapatil.vercel.app/">
+  <a href="https://chaitanyapatil.online/">
     <img src="https://img.shields.io/badge/View%20Portfolio-B98C67?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
