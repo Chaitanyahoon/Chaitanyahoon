@@ -60,14 +60,11 @@ My ideal software is calm: **nothing extra, nothing missing.**
 ---
 
 ## 📖 Currently Exploring
+- 🤖 Building AI Agents LangChain, LangGraph, RAG pipelines
+- 🐍 Python + FastAPI for backend AI services  
+- 🧠 LLM APIs, prompt engineering, Chroma vector store
+- 🐳 Docker for containerized deployments
 
-- Advanced React patterns (state machines, context architecture)
-- Spring Boot & ASP.NET Core for secure + scalable backend design
-- TypeScript for long-term maintenance and safety
-- Real-time systems, SignalR, Socket.IO, WebSockets
-- Motion UI + Tailwind for subtle interface movement
-- Mobile development with React Native / Kotlin
-- Game engine logic (personal curiosity)
 
 <p align="center">
   <img src="dazai.png" width="92%" />
