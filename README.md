@@ -2,14 +2,14 @@
      CHAITANYA PATIL — GitHub Profile README
      ══════════════════════════════════════════════════════════ -->
 
-<!-- Visitor Counter — subtle, top-right feel -->
+<!-- Visitor Counter -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=chaitanyahoon&style=flat-square&color=B98C67&label=profile+views" />
 </p>
 
 <!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1300&color=D3A174&center=true&vCenter=true&width=620&lines=Building+calm%2C+deliberate+software.;React+%C3%97+Spring+Boot+%C3%97+TypeScript.;Open+to+collaborate+%E2%80%94+let%27s+build+something." />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&pause=1300&color=D3A174&center=true&vCenter=true&width=680&lines=Building+calm%2C+deliberate+software.;React+%C3%97+Spring+Boot+%C3%97+TypeScript.;9%2B+projects+shipped+%E2%80%94+some+live%2C+all+intentional." />
 </p>
 
 <!-- Name -->
@@ -22,10 +22,9 @@
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer — React × Spring Boot × ASP.NET × TypeScript</strong>
+  <strong>Full Stack Developer — React × Spring Boot × ASP.NET Core × TypeScript</strong>
 </p>
 
-<!-- Divider image -->
 <p align="center">
   <img src="dazai.png" width="92%" />
 </p>
@@ -34,37 +33,45 @@
 
 ## 🪶 About Me
 
-I focus on building predictable and graceful digital systems 
-clean architecture, meaningful UI, and quietly improving through consistency.
+Fresher full-stack developer with 2 internships, 9+ shipped projects, and a live agency —
+building real things before most people finish their first tutorial.
 My ideal software is calm: **nothing extra, nothing missing.**
 
-- 🌱 Exploring: Advanced React patterns, Spring Boot security, Motion UI
-- 💬 Ask me about: Clean architecture, full-stack TypeScript, REST API design
-- 📍 Based in Maharashtra, India
-- 📫 Reach me: [chaitanyapatil700@gmail.com](mailto:chaitanyapatil700@gmail.com)
+- 🚀 Shipped: a live street food platform, a real-time music app, a scam detection engine, and a published npm package
+- 🤖 Currently building toward AI Agent roles — LangChain, LangGraph, RAG, FastAPI
+- 🏢 Founder of [Planthesia](https://planthesia.in) — boutique digital engineering studio, Pune
+- 💬 Strong opinions on clean architecture, TypeScript patterns, and REST API design
+- 📍 Pune, Maharashtra · Open to full-time roles & collaborations
+- 📫 [chaitanyapatil700@gmail.com](mailto:chaitanyapatil700@gmail.com)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stars |
-|---|---|:---:|
-| [**StreetBite**](https://github.com/Chaitanyahoon/StreetBite) | Full-stack street food platform vendor management, geo search, community feed, Spring Boot + Next.js | ⭐ 8 |
-| [**FocusArena**](https://github.com/Chaitanyahoon/FocusArena) | Solo Leveling–inspired productivity RPG dungeon raids, real-time guild chat, mobile APK | ⭐ 4 |
-| [**Midori**](https://github.com/Chaitanyahoon/Midori) | Nature-themed productivity app Pomodoro with ambient soundscapes, time-blocking calendar, Gemini AI coach | ⭐ 2 |
-| [**ScamSentry**](https://github.com/Chaitanyahoon/ScamSentry) | 4-layer forensic engine for detecting malicious URLs & job scams OSINT blocklists, real-time threat map | ⭐ 9 |
-| [**Ghostframe**](https://github.com/Chaitanyahoon/Ghostframe) | Glitch horror web game escape a corrupted simulation through CSS/Canvas distortion puzzles | ⭐ 9 |
+| Project | What it does | Stack | |
+|---|---|---|---|
+| **StreetBite** | Full-stack street food platform with location-based vendor discovery, real-time menu management, vendor dashboards and a gamified community feed. 500+ vendors live. | Spring Boot · Next.js · MySQL · Firebase | [↗ live](https://streetbitego.vercel.app) |
+| **OpenJam** | Collaborative listening rooms where anyone can sync YouTube playback, build shared queues and chat in real time. No account needed, just share a link. | Socket.IO · FastAPI · Next.js · Python | [↗ live](https://openjam.fun) |
+| **ScamSentry** | Forensic engine that scores URLs and job listings across four detection layers using OSINT blocklists and a live threat heatmap. | React · Firebase · Redis · Mapbox | [↗ live](https://scam-sentry.vercel.app) |
+| **Planthesia** | Digital engineering studio I founded, building SaaS platforms, startup MVPs and enterprise systems for clients. The site itself is the work. | Next.js · Framer Motion · Three.js · Spring Boot | [↗ live](https://planthesia.in) |
+| **respekt** | Published npm middleware that catches API contract and schema drift before it reaches production. Ships with 59 Vitest tests and a CLI. | Node.js · Zod · Vitest · TypeScript | [↗ npm](https://www.npmjs.com/package/respekt) |
 
-> ⭐ If any of these helped or inspired you, a star goes a long way.
+<p align="center">
+  <a href="https://chaitanyapatil.online">
+    <img src="https://img.shields.io/badge/See%20All%209%2B%20Projects%20→-D3A174?style=for-the-badge&logo=vercel&logoColor=F2ECE5"/>
+  </a>
+</p>
+
+> ⭐ Stars on any repo genuinely keep the momentum going.
 
 ---
 
 ## 📖 Currently Exploring
-- 🤖 Building AI Agents LangChain, LangGraph, RAG pipelines
-- 🐍 Python + FastAPI for backend AI services  
+
+- 🤖 Building AI Agents — LangChain, LangGraph, RAG pipelines
+- 🐍 Python + FastAPI for backend AI services
 - 🧠 LLM APIs, prompt engineering, Chroma vector store
 - 🐳 Docker for containerized deployments
-
 
 <p align="center">
   <img src="dazai.png" width="92%" />
@@ -75,7 +82,7 @@ My ideal software is calm: **nothing extra, nothing missing.**
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,java,spring,dotnet,cs,ts,js,nodejs,mongodb,mysql,html,css,tailwind,figma,git" />
+  <img src="https://skillicons.dev/icons?i=react,java,spring,dotnet,cs,ts,js,nodejs,nextjs,python,mongodb,mysql,redis,docker,tailwind,figma,git" />
 </p>
 
 ---
@@ -131,14 +138,19 @@ My ideal software is calm: **nothing extra, nothing missing.**
 
 ## 🤝 Open to Collaborate
 
-I'm actively looking to contribute to interesting open source projects and collaborate with other developers. If you're building something in the **React / TypeScript / Spring Boot** space or anything ambitious and purposeful — let's talk.
+I'm actively looking to contribute to interesting open source projects and collaborate with other developers. If you're building something in the **React / TypeScript / Spring Boot / AI Agents** space — or anything ambitious and purposeful — let's talk.
 
 <p align="center">
   <a href="https://github.com/Chaitanyahoon?tab=repositories">
     <img src="https://img.shields.io/badge/Browse%20My%20Repos-D3A174?style=for-the-badge&logo=github&logoColor=F2ECE5"/>
   </a>
+  &nbsp;
   <a href="https://chaitanyapatil.online/">
     <img src="https://img.shields.io/badge/View%20Portfolio-B98C67?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://planthesia.in/">
+    <img src="https://img.shields.io/badge/Planthesia%20Studio-E3C6AA?style=for-the-badge&logo=fire&logoColor=3D2B1F"/>
   </a>
 </p>
 
