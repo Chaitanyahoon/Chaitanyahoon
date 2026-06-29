@@ -50,11 +50,11 @@ My ideal software is calm: **nothing extra, nothing missing.**
 
 | Project | What it does | Stack | |
 |---|---|---|---|
-| **StreetBite** | Full-stack street food platform with location-based vendor discovery, real-time menu management, vendor dashboards and a gamified community feed. 500+ vendors live. | Spring Boot · Next.js · MySQL · Firebase | [↗ live](https://streetbitego.vercel.app) |
-| **OpenJam** | Collaborative listening rooms where anyone can sync YouTube playback, build shared queues and chat in real time. No account needed, just share a link. | Socket.IO · FastAPI · Next.js · Python | [↗ live](https://openjam.fun) |
-| **ScamSentry** | Forensic engine that scores URLs and job listings across four detection layers using OSINT blocklists and a live threat heatmap. | React · Firebase · Redis · Mapbox | [↗ live](https://scam-sentry.vercel.app) |
-| **Planthesia** | Digital engineering studio I founded, building SaaS platforms, startup MVPs and enterprise systems for clients. The site itself is the work. | Next.js · Framer Motion · Three.js · Spring Boot | [↗ live](https://planthesia.in) |
-| **respekt** | Published npm middleware that catches API contract and schema drift before it reaches production. Ships with 59 Vitest tests and a CLI. | Node.js · Zod · Vitest · TypeScript | [↗ npm](https://www.npmjs.com/package/respekt) |
+| **StreetBite** | Full-stack street food platform with location-based vendor discovery, real-time menu management, vendor dashboards and a gamified community feed. 500+ vendors live. | Spring Boot · Next.js · MySQL · Firebase | [↗&nbsp;live](https://streetbitego.vercel.app) |
+| **OpenJam** | Collaborative listening rooms where anyone can sync YouTube playback, build shared queues and chat in real time. No account needed, just share a link. | Socket.IO · FastAPI · Next.js · Python | [↗&nbsp;live](https://openjam.fun) |
+| **ScamSentry** | Forensic engine that scores URLs and job listings across four detection layers using OSINT blocklists and a live threat heatmap. | React · Firebase · Redis · Mapbox | [↗&nbsp;live](https://scam-sentry.vercel.app) |
+| **Planthesia** | Digital engineering studio I founded, building SaaS platforms, startup MVPs and enterprise systems for clients. The site itself is the work. | Next.js · Framer Motion · Three.js · Spring Boot | [↗&nbsp;live](https://planthesia.in) |
+| **respekt** | Published npm middleware that catches API contract and schema drift before it reaches production. Ships with 59 Vitest tests and a CLI. | Node.js · Zod · Vitest · TypeScript | [↗&nbsp;npm](https://www.npmjs.com/package/respekt) |
 
 <p align="center">
   <a href="https://chaitanyapatil.online">
